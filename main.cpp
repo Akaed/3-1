@@ -31,7 +31,7 @@ int main() {
     const_value = 256;
 
     for (int i = 0; i < SIZE; i++) {
-        cout << "%d" << v[i];
+    cout << "\n" << v[i]<< endl;
     }
     cout << "\n";
 
