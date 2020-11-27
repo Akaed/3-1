@@ -25,9 +25,9 @@ int main() {
     const_value = 256;
 
     for (int i = 0; i < SIZE; i++) {
-        printf("%d ", v[i]);
+        cout << "%d" << v[i];
     }
-    printf("\n");
+    cout << "\n";
 
     return 0;
 }
